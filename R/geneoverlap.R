@@ -17,7 +17,7 @@
 #' d2 = c(105, 28, 172) # AB, BC, CA
 #' d3 = c(47)
 #'
-#' sign_overlap(N,d1,d2,d3)
+#' geneoverlap(N,d1,d2,d3)
 #' @export
 #'
 geneoverlap = function(N,d1,d2,d3){
